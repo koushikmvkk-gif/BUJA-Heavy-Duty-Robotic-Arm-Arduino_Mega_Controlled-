@@ -1,10 +1,10 @@
 # BUJA – Heavy-Duty Multi-DOF Robotic Arm
 
-<img width="400" height="380" alt="image_20260723_0615292fa298cc-38a8-4643-83a0-4dd2cc819ac6-1" src="https://github.com/user-attachments/assets/c988b20e-be31-4736-a3d5-22bf1ff13229" />
+<img width="390" height="380" alt="image_20260723_0615292fa298cc-38a8-4643-83a0-4dd2cc819ac6-1" src="https://github.com/user-attachments/assets/c988b20e-be31-4736-a3d5-22bf1ff13229" />
 <img width="300" height="400" alt="VID_20260722_175148_0082-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3534703d-ffd1-46ec-95cd-54be2cfb0d6c" />
 
 <p align="center">
-<img width="700" height="1200" alt="WhatsApp Image 2026-07-31 at 11 26 09 AM" src="https://github.com/user-attachments/assets/aec89b97-e849-402b-b22f-b2dcec37d5f6" />
+<img width="400" height="200" alt="WhatsApp Image 2026-07-31 at 11 26 09 AM" src="https://github.com/user-attachments/assets/aec89b97-e849-402b-b22f-b2dcec37d5f6" />
 
 
 
