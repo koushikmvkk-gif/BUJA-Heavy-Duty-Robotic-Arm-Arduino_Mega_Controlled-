@@ -91,6 +91,11 @@ This project provided hands-on exposure to concepts commonly used in industrial 
 
 ---
 
+## System Architecture
+<p align="center">
+
+<img width="400" height="576" alt="buja" src="https://github.com/user-attachments/assets/0d1a6308-1607-4c41-be0f-e77088b6a2b3" />
+
 # Working Principle
 
 The robotic arm operates using six potentiometers.
